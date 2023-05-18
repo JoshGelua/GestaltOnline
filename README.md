@@ -1,43 +1,51 @@
 # Gestalt
 
-Welcome to the Gestalt repository! Gestalt is an MMORPG project built using the MonoGame framework.
+Welcome to the Gestalt repository! 
 
-## Description
+## Overview
 
-Gestalt is an ambitious project aiming to create a rich and immersive MMORPG experience. With a focus on captivating gameplay, expansive world-building, and intricate character development, Gestalt aims to provide an engaging and dynamic gaming experience for players.
+Gestalt is an ambitious 2D top-down MMORPG set in a procedurally generated map inspired by tessellation. This collaborative and cooperative real-time strategy game offers a unique gaming experience for players. The project incorporates elements of fantasy, steampunk, and cyberpunk, creating a visually captivating world.
 
 ## Features
 
-- **Standalone Demo**: This repository contains an early standalone demo of the game, showcasing basic gameplay mechanics and visual elements.
+- **Procedural Map Generation**: Explore a dynamically generated map, ensuring a unique experience for each playthrough.
 
-- **MonoGame Framework**: Gestalt is built using the MonoGame framework, an open-source framework for creating cross-platform games.
+- **Collaborative Gameplay**: Engage in cooperative gameplay, fostering collaboration and strategic planning among players.
+
+- **Platform Compatibility**: Gestalt is being developed with two versions in mind. A full-featured PC version with console couch co-op compatibility and a limited-featured mobile version for iOS and Android platforms.
+
+- **AI-based Aspects**: Leverage the power of LLMs, such as OpenAI's GPT models, to enhance certain aspects of the game, providing an engaging and immersive gaming experience.
 
 ## Getting Started
 
-To run the standalone demo of Gestalt, follow these steps:
+To get started with Gestalt, please follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the project in your preferred IDE or text editor.
-3. Build the project to ensure all dependencies are resolved.
-4. Run the game and enjoy the early demo of Gestalt!
+2. Review the project documentation and setup instructions located in the `Documentation` folder for detailed information on building and running the game.
+3. Install the necessary dependencies as outlined in the documentation.
+4. Build and run the game according to the provided instructions.
 
 ## Contributing
 
-We welcome contributions to the Gestalt project! If you're interested in getting involved, please follow these steps:
+We welcome contributions to Gestalt! If you're interested in contributing to the project, please follow these guidelines:
 
 1. Fork the repository on GitHub.
 2. Create a new branch for your contributions.
-3. Commit and push your changes to your forked repository.
-4. Submit a pull request, detailing the changes you've made and the reasons behind them.
+3. Make your changes, ensuring they align with the project's vision and goals.
+4. Test your changes thoroughly.
+5. Commit and push your changes to your forked repository.
+6. Submit a pull request, providing a detailed description of your changes and the reasons behind them.
 
-Please ensure that your contributions align with the project's vision and goals. We appreciate your contributions and collaboration!
+Please note that contributions related to art and development are especially appreciated. If you're interested in contributing in these areas, please reach out to us at josh@gelua.ca with the subject line "Gestalt Contributing".
 
 ## License
 
-The Gestalt project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the codebase as permitted by the license.
+Gestalt is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the codebase as permitted by the license.
 
 ## Contact
 
-For any inquiries or questions regarding the Gestalt project, please reach out to the project maintainer at josh@gelua.ca.
+For any inquiries or questions regarding Gestalt, please reach out to the project maintainer, Josh, at josh@gelua.ca.
+
+Thank you for your interest in Gestalt, and we look forward to your contributions and support!
 
 Happy gaming!
