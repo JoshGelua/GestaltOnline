@@ -44,7 +44,7 @@ Gestalt is released under the [MIT License](LICENSE). Feel free to use, modify, 
 
 ## Contact
 
-For any inquiries or questions regarding Gestalt, please reach out to the project maintainer, Josh, at josh@gelua.ca.
+For any inquiries or questions regarding Gestalt, please reach out to the developer, Josh, at josh@gestaltonline.ca
 
 Thank you for your interest in Gestalt, and we look forward to your contributions and support!
 
