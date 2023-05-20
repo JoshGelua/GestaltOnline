@@ -4,7 +4,7 @@ Welcome to the Gestalt repository!
 
 ## Overview
 
-Gestalt is an ambitious 2D top-down MMORPG set in a procedurally generated map inspired by tessellation. This collaborative and cooperative real-time strategy game offers a unique gaming experience for players. The project incorporates elements of fantasy, steampunk, and cyberpunk, creating a visually captivating world.
+Gestalt is an ambitious 2D top-down online RPG set in a procedurally generated map inspired by tessellation. This collaborative and cooperative real-time strategy game offers a unique gaming experience for players. The project incorporates elements of fantasy, steampunk, and cyberpunk, creating a visually captivating world.
 
 ## Features
 
@@ -37,10 +37,6 @@ We welcome contributions to Gestalt! If you're interested in contributing to the
 6. Submit a pull request, providing a detailed description of your changes and the reasons behind them.
 
 Please note that contributions related to art and development are especially appreciated. If you're interested in contributing in these areas, please reach out to us at josh@gelua.ca with the subject line "Gestalt Contributing".
-
-## License
-
-Gestalt is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the codebase as permitted by the license.
 
 ## Contact
 
