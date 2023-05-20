@@ -29,7 +29,7 @@ namespace GestaltPOC.Source
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-             _characterTexture = Content.Load<Texture2D>("character");
+            // _characterTexture = Content.Load<Texture2D>("character");
 
             // TODO: Load additional game content here
         }
@@ -40,17 +40,17 @@ namespace GestaltPOC.Source
                 Exit();
 
             // Handle character movement
-            KeyboardState keyboardState = Keyboard.GetState();
-            float movementSpeed = 5f;
+            //KeyboardState keyboardState = Keyboard.GetState();
+            //float movementSpeed = 5f;
 
-            if (keyboardState.IsKeyDown(Keys.W))
-                _characterPosition.Y -= movementSpeed;
-            if (keyboardState.IsKeyDown(Keys.S))
-                _characterPosition.Y += movementSpeed;
-            if (keyboardState.IsKeyDown(Keys.A))
-                _characterPosition.X -= movementSpeed;
-            if (keyboardState.IsKeyDown(Keys.D))
-                _characterPosition.X += movementSpeed;
+            //if (keyboardState.IsKeyDown(Keys.W))
+            //    _characterPosition.Y -= movementSpeed;
+            //if (keyboardState.IsKeyDown(Keys.S))
+            //    _characterPosition.Y += movementSpeed;
+            //if (keyboardState.IsKeyDown(Keys.A))
+            //    _characterPosition.X -= movementSpeed;
+            //if (keyboardState.IsKeyDown(Keys.D))
+            //    _characterPosition.X += movementSpeed;
 
             base.Update(gameTime);
         }
@@ -59,14 +59,14 @@ namespace GestaltPOC.Source
         {
             GraphicsDevice.Clear(Color.Green);
 
-            _spriteBatch.Begin();
+            //_spriteBatch.Begin();
 
-            // Draw character
-            _spriteBatch.Draw(_characterTexture, _characterPosition, Color.White);
+            //// Draw character
+            //_spriteBatch.Draw(_characterTexture, _characterPosition, Color.White);
 
-            // TODO: Add additional drawing code here
+            //// TODO: Add additional drawing code here
 
-            _spriteBatch.End();
+            //_spriteBatch.End();
 
             base.Draw(gameTime);
         }
